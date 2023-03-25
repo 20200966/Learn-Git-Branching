@@ -6,4 +6,4 @@
 ### Niveles Main de Git Branching
 Uno de los niveles básicos de este juego son los siguientes:
 
-### Commits:
+* ### Commits:
